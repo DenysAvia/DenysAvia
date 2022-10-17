@@ -1,16 +1,5 @@
 ### Hi there 👋
 
-<!--
-**DenysAvia/DenysAvia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-(https://github.com/DenysAvia/DenysAvia/blob/main/assets/aviation-banner.jpg)  
-
-About me
-
-Languages and Tools
-
-Follow me
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
